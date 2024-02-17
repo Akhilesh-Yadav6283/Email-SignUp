@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Email-SignUp/static/css/main.4ad0d0f4.css",
+    "main.js": "/Email-SignUp/static/js/main.b49dd2a9.js",
+    "index.html": "/Email-SignUp/index.html",
+    "main.4ad0d0f4.css.map": "/Email-SignUp/static/css/main.4ad0d0f4.css.map",
+    "main.b49dd2a9.js.map": "/Email-SignUp/static/js/main.b49dd2a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ad0d0f4.css",
+    "static/js/main.b49dd2a9.js"
+  ]
+}
